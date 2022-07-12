@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1656464973 source:c:\users\matib\onedrive\escritorio\grupal laboratorio\proyecto 1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<stdio.h>
+	<ctime>
+	<algorithm>
+	<conio.h>
+	<rlutil.h>
+	<Windows.h>
+	"Multiplayer.h"
+	"Single Player.h"
+	"Funciones.h"
+
+1653918898 c:\users\matib\onedrive\escritorio\grupal laboratorio\proyecto 1\test.h
+
+1653920602 source:c:\users\matib\onedrive\escritorio\grupal laboratorio\proyecto 1\punto 2.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Test.h"
+
+1654876167 c:\users\matib\onedrive\escritorio\grupal laboratorio\proyecto 1\jugadas.h
+
+1654876116 c:\users\matib\onedrive\escritorio\grupal laboratorio\proyecto 1\funcionesjugadas.h
+
+1655918041 source:c:\users\matib\onedrive\escritorio\d\utn perro\varios utn\grupal laboratorio\proyecto 1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<stdio.h>
+	<ctime>
+	<algorithm>
+	<conio.h>
+	<rlutil.h>
+	<Windows.h>
+	"Multiplayer.h"
+	"Single Player.h"
+	"Funciones.h"
+
+1655757332 c:\users\matib\onedrive\escritorio\d\utn perro\varios utn\grupal laboratorio\proyecto 1\jugadas.h
+	"Varios.h"
+
+1655736305 c:\users\matib\onedrive\escritorio\d\utn perro\varios utn\grupal laboratorio\proyecto 1\funcionesjugadas.h
+
+1655757287 c:\users\matib\onedrive\escritorio\d\utn perro\varios utn\grupal laboratorio\proyecto 1\varios.h
+
+1655827387 c:\users\matib\onedrive\escritorio\d\utn perro\varios utn\grupal laboratorio\proyecto 1\multiplayer.h
+	"Funciones.h"
+
+1655918406 c:\users\matib\onedrive\escritorio\d\utn perro\varios utn\grupal laboratorio\proyecto 1\funciones.h
+
+1655915880 c:\users\matib\onedrive\escritorio\d\utn perro\varios utn\grupal laboratorio\proyecto 1\single player.h
+	"Funciones.h"
+
+1655827387 c:\users\matib\onedrive\escritorio\grupal laboratorio\proyecto 1\multiplayer.h
+	"Funciones.h"
+
+1656465088 c:\users\matib\onedrive\escritorio\grupal laboratorio\proyecto 1\funciones.h
+
+1656464462 c:\users\matib\onedrive\escritorio\grupal laboratorio\proyecto 1\single player.h
+	"Funciones.h"
+
+1657196527 source:c:\users\matib\onedrive\escritorio\grupal laboratorio 28-6\proyecto 1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<stdio.h>
+	<ctime>
+	<algorithm>
+	<conio.h>
+	<rlutil.h>
+	<Windows.h>
+	"Multiplayer.h"
+	"Single Player.h"
+	"Funciones.h"
+
+1657117040 c:\users\matib\onedrive\escritorio\grupal laboratorio 28-6\proyecto 1\multiplayer.h
+	"Funciones.h"
+
+1657202407 c:\users\matib\onedrive\escritorio\grupal laboratorio 28-6\proyecto 1\funciones.h
+	"rlutil.h"
+
+1657202494 c:\users\matib\onedrive\escritorio\grupal laboratorio 28-6\proyecto 1\single player.h
+	"Funciones.h"
+
+1657471137 source:c:\users\matib\onedrive\escritorio\casi casi\proyecto 1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<stdio.h>
+	<ctime>
+	<algorithm>
+	<conio.h>
+	<rlutil.h>
+	<Windows.h>
+	<numeric>
+	<string.h>
+	"Multiplayer.h"
+	"Single Player.h"
+	"Funciones.h"
+
+1657476102 c:\users\matib\onedrive\escritorio\casi casi\proyecto 1\multiplayer.h
+	"Funciones.h"
+	<string.h>
+
+1657475286 c:\users\matib\onedrive\escritorio\casi casi\proyecto 1\funciones.h
+	<string.h>
+	"rlutil.h"
+
+1657475836 c:\users\matib\onedrive\escritorio\casi casi\proyecto 1\single player.h
+	"Funciones.h"
+	<string.h>
+	"rlutil.h"
+	"numeric"
+
+1657396494 c:\users\matib\onedrive\escritorio\casi casi\proyecto 1\sandbox.h
+	"Funciones.h"
+	"rlutil.h"
+	"numeric"
+
+1657471137 source:c:\users\matib\onedrive\escritorio\d\utn perro\utn primer año\laboratorio i\generala terminada\proyecto 1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<stdio.h>
+	<ctime>
+	<algorithm>
+	<conio.h>
+	<rlutil.h>
+	<Windows.h>
+	<numeric>
+	<string.h>
+	"Multiplayer.h"
+	"Single Player.h"
+	"Funciones.h"
+
+1657476102 c:\users\matib\onedrive\escritorio\d\utn perro\utn primer año\laboratorio i\generala terminada\proyecto 1\multiplayer.h
+	"Funciones.h"
+	<string.h>
+
+1657540405 c:\users\matib\onedrive\escritorio\d\utn perro\utn primer año\laboratorio i\generala terminada\proyecto 1\funciones.h
+	<string.h>
+	"rlutil.h"
+
+1657475836 c:\users\matib\onedrive\escritorio\d\utn perro\utn primer año\laboratorio i\generala terminada\proyecto 1\single player.h
+	"Funciones.h"
+	<string.h>
+	"rlutil.h"
+	"numeric"
+
